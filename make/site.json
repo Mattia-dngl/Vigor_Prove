@@ -1,0 +1,10 @@
+{
+  "description": "Connect with friends and family through seamless messaging and video calls, enhancing communication and fostering relationships in a user-friendly platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
